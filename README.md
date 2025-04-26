@@ -10,4 +10,4 @@ The things that live in my repositories are sample work simulating real-life app
 
 They are advisory, intended for instructional & idea generating purposes only
 
-No proprietary info in any shape of form is included therein, breaching no NDA, Non-Compete or an any other agreements
+No proprietary info in any shape of form is included therein, breaching no NDA, Non-Compete or an any other agreements with any 3rd parties
