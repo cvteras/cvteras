@@ -8,6 +8,6 @@ In a past life I was an academic with a chemistry background
 
 The things that live in my repositories are sample work simulating real-life applications & case studies
 
-They are advisory, intended for instructional & brainstorming purposes only
+They are advisory, intended for instructional & idea generating purposes only
 
 No proprietary info in any shape of form is included therein, breaching no NDA, NON-Compete or an any other agreements
