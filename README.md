@@ -1,6 +1,7 @@
 ## Hi 👋
 
 I do a bunch of quant stuff for energy corporates
+
 In a past life I was an academic with a chemistry background
 
 **DISCLAIMER**
