@@ -5,7 +5,7 @@ I do a bunch of quant stuff for energy corporates
 In a past life I was an academic with a chemistry background
 
 **Repositories will be added sequentially**
-
+___________________________________________
 **DISCLAIMER**
 
 The things that live in my repositories are sample work simulating real-life applications & case studies
