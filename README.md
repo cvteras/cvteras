@@ -1,8 +1,6 @@
 ## Hi 👋
 
-I do a bunch of quant stuff for energy corporates
-
-In a past life I was an academic with a chemistry background
+A bunch of quant stuff
 
 **Repositories are regularly added sequentially**
 ___________________________________________
