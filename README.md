@@ -1,6 +1,6 @@
 ## Hi 👋
 
-A bunch of quant stuff
+A bunch of quant stuff herein
 
 **Repositories are regularly added sequentially**
 ___________________________________________
